@@ -2,7 +2,7 @@
 	export let data;
 </script>
 
-<h1>My First Blog</h1>
+
 
 <main>
  <ul>
