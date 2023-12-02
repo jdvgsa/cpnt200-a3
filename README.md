@@ -105,3 +105,6 @@ Full Error Log:
 - 9:18:01 AM: Build failed due to a user error: Build script returned non-zero exit code: 2
 - 9:18:01 AM: Failing build: Failed to build site
 - 9:18:01 AM: Finished processing build request in 16.306s
+
+
+Update: In order for you to deploy the site to Netlify without failing the build process, you must go to site configuration, environment variables, add a new variable, add .env file and then paste what is inside your .env file into the variable.
