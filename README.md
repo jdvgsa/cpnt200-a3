@@ -9,7 +9,7 @@
 
 Deploy with Netlify.
 
-I followed all the steps in this [link](https://docs.netlify.com/integrations/frameworks/sveltekit/) as posted from the [sait-wbdv](https://sait-wbdv-f23.netlify.app/courses/cpnt-200/assessments/activity-3) but I am stil unable to deploy.
+I followed all the steps in this [link](https://docs.netlify.com/integrations/frameworks/sveltekit/) as posted from the [sait-wbdv](https://sait-wbdv-f23.netlify.app/courses/cpnt-200/assessments/activity-3) assignment instructions but I am stil unable to deploy.
 
 Here are my steps.
 
