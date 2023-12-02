@@ -24,8 +24,7 @@
 		font-family: 'Arial', sans-serif;
       background-color: #f8f8f8;
       color: #333;
-      margin: 0;
-      padding: 0;
+      margin: auto;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -37,6 +36,7 @@
 		display: flex;
       justify-content: center;
       align-items: center;
+			padding-left: 5rem;
 	}
 	
 	:global(main) {
