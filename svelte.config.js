@@ -7,7 +7,7 @@ const config = {
 	}
 };
 
-// export default config;
+export default config;
 
 // import adapter from '@sveltejs/adapter-netlify';
 
